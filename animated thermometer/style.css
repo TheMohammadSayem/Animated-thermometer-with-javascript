@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(44, 44, 87);
+}
+
+.outerDiv{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+height: 100vh;
+}
+
+
+.main-heading{
+    color: white;
+font-size: 65px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
